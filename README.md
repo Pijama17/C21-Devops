@@ -10,7 +10,7 @@ Tijdens het ontwikkelen van software maak je echter veranderingen in heel veel v
 
 We maken tijdens de opleiding gebruik van Git. Dit is de meest voorkomende versiebeheer software op dit moment. Git installeer je op je laptop en gebruik je vanuit Visual Studio Code (dit is je editor waarin je code bewerkt) om versies bij te houden van je werk/code. Daarnaast gebruiken we Github, een gratis dienst van Microsoft, om code online te delen.
 
-Als student van de opleiding Software Developer gebruik je Github om starterscode die bij een module hoort te downloaden en om als je opdrachten van een module hebt gemaakt je werk online te zetten zodat docenten je code kunnen beoordelen. Later leer je ook hoe je in een team Git en Github kunt gebruiken om samen te werken aan een project. vgjgcgh
+Als student van de opleiding Software Developer gebruik je Github om starterscode die bij een module hoort te downloaden en om als je opdrachten van een module hebt gemaakt je werk online te zetten zodat docenten je code kunnen beoordelen. Later leer je ook hoe je in een team Git en Github kunt gebruiken om samen te werken aan een project.
 
 > Als je net begint met de opleiding is deze module misschien best ingewikkeld. Je moet al wennen aan Canvas en daarnaast nog allerlei systemen begrijpen zoals die ook door professionele software ontwikkelaars worden gebruikt. Maak je niet teveel zorgen daarover, de ervaring leert dat vooral er veel mee te werken versiebeheer uiteindelijk gemakkelijker is dan het in eerste instantie lijkt.
 

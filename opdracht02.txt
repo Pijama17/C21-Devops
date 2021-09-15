@@ -1,0 +1,6 @@
+editor
+side bar
+status bar
+activity bar
+panels
+
